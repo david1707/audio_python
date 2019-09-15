@@ -1,0 +1,11 @@
+# Extensions
+*.txt
+*.mp3
+*.vscode
+
+# Virtual Environments
+Pipfile
+Pipfile.lock
+
+# Exceptions
+!requirements.txt
