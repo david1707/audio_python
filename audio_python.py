@@ -46,6 +46,7 @@ def reading_from_file():
     file_to_read = input("Please, insert the name of a file to read:\n") + '.txt'
     f = open(file_to_read, 'r')
     file_text = f.read()
+    f.close()
 
     audio_created = gTTS(text=file_text, lang=language, slow=slow_audio_speed)
     audio_created.save(filename)
