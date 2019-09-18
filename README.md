@@ -1,5 +1,5 @@
 # Audio Python
-A Python script using gTTS library to create Text-To-Speech mp3 - https://letslearnabout.net/python/making-text-to-speech-fun-with-python-and-gtts/
+A Python script using gTTS library to create Text-To-Speech mp3 - https://letslearnabout.net/python/creating-text-to-speech-with-python-and-gtts/
 
 ## Requirements 
 You only need to create a virtual environment and install gtts with "pip install gtts". Or use the requirements.txt.
